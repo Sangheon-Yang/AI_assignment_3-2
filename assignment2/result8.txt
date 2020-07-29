@@ -1,0 +1,4 @@
+>Hill Climbing
+3 5 7 2 0 6 4 1 
+Total Elapsed Time: 0.005928216
+( Total Random Restart : 144 )

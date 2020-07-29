@@ -1,0 +1,12 @@
+>DFS
+Location : 0
+Time : 0.025580564
+
+>BFS
+Location : 0
+Time : 1.32886E-4
+
+>DFID
+Location : 0
+Time : 2.671E-5
+

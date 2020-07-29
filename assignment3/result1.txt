@@ -1,0 +1,4 @@
+>Genetic Algorithm(Population : 2)
+0 
+Total Elapsed Time : 4.87066E-4
+Until Nth Generation : 0

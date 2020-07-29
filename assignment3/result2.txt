@@ -1,0 +1,4 @@
+>Genetic Algorithm (Population : 4)
+No Solution until (N^N)th Generation
+Total Elapsed Time : 5.48951E-4
+Until Nth Generation : 4

@@ -1,0 +1,4 @@
+>Genetic Algorithm(Population : 30)
+13 3 8 11 2 4 1 14 12 9 7 5 0 6 10 
+Total Elapsed Time : 0.026787835
+Until Nth Generation : 66

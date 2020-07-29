@@ -1,0 +1,4 @@
+>Hill Climbing
+Could Not Find the Solution
+Total Elapsed Time: 3.30283E-4
+( Total Random Restart : 27 )
